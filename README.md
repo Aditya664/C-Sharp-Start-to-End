@@ -1,7 +1,10 @@
 <h2 align="center"><u>C# Start To End</u></h2>
+<p align="center">
+  <img width="500px" src="https://th.bing.com/th/id/R.233cd6686efdd0b755587b548dd96cf0?rik=3yDkBTMY%2fllISQ&riu=http%3a%2f%2fi.imgur.com%2f6dMhVY2.gif&ehk=qoa%2fRF%2bI4LRjkI%2famDnm0HZI9noJooFDWMjGjOaRsW4%3d&risl=&pid=ImgRaw&r=0" alt="Material Bread logo">
+    <h2 align="center"> Study of C# Start To End </h2>
+</p>
 
-![Study of C# Start To End](https://th.bing.com/th/id/R.233cd6686efdd0b755587b548dd96cf0?rik=3yDkBTMY%2fllISQ&riu=http%3a%2f%2fi.imgur.com%2f6dMhVY2.gif&ehk=qoa%2fRF%2bI4LRjkI%2famDnm0HZI9noJooFDWMjGjOaRsW4%3d&risl=&pid=ImgRaw&r=0)
-<h4 align="center"> Study of C# Start To End </h4>
+
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/Aditya664/C-Sharp-Start-to-End?style=for-the-badge&color=orange">
