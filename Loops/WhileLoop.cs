@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Loops
+namespace WhileLoop
 {
     // LOOPS:-
     // -A loop Execute a piece of code repeatedly until a condition is fulfilled.
@@ -12,24 +12,22 @@ namespace Loops
     //     2.while
     // -A for loop itertes over elements umtil the specified length is reached.
     // -A While loop executes until a specified condition is met;
-    class Loops
+
+    class WhileLoop 
     {
         public static void Main(String[] args)
         {
-            List<String> collection = new List<String>() { "a", "b", "c"};
+            // while (condition) 
+            // {
+            // // code block to be executed
+            // }
 
-                // for (statement 1; statement 2; statement 3) 
-                // {
-                // // code block to be executed
-                // }
-
-                
-            for(int i = 0; i < collection.Count; i++)
-            {
-                Console.WriteLine(collection[i]);
-
-            }
+                int i = 3;
+                while (i > 0)
+                {
+                    Console.WriteLine("Loading");
+                    i--;
+                }
         }
-
     }
 }
