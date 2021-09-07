@@ -1,0 +1,30 @@
+// Build in data types :-)
+//     int
+//     float
+//     string
+//     char
+//     boolean
+// these are the Building blocks of th language.
+
+// C#      .Net
+// bool =  System.Boolean
+// float =  System.Single
+// int  = System.Int32
+// string = System.String
+// char = System.Char
+
+
+using System;
+
+
+namespace System
+{
+    class BuildInDt
+    {
+        public static void Main(String[] args)
+        {
+            Type sType = typeof(string);
+            Console.WriteLine(sType);
+        }
+    }
+}
