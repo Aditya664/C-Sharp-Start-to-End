@@ -16,6 +16,9 @@ namespace Numbers
             Console.WriteLine(i++);
             Console.WriteLine(--i);
             Console.WriteLine(i--);
+            Console.WriteLine(6 * 2);
+            Console.WriteLine(6 / 2);
+            Console.WriteLine(6 % 2);
 
 
         }   
