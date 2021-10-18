@@ -3,7 +3,7 @@ using System;
 
 namespace HelloWorld
 {
-    //name of the class must be similer to the name of the file.
+    //name of the class must be similar to the name of the file.
     //every c sharp file is also the c sharp class. 
     class HelloWorld
     {
