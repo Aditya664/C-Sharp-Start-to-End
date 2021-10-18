@@ -1,6 +1,6 @@
 using System;
 
-// C# used namespaces to avod name conflicts.
+// C# used namespaces to avoid name conflicts.
 // C# imports namespaces with using Statement.
 namespace Syntax
 {
@@ -10,7 +10,7 @@ namespace Syntax
         1.C# is case-sensitive language.
         2.C# uses semicolon end of the line.
         3.C# uses curly brackets.
-        4.C# used namespaces to avod name conflicts.
+        4.C# used namespaces to avoid name conflicts.
         5.C# imports namespaces with using Statement.
         6.C# code goes inside the classes.
         7.C# supports the access modifier public,private and protected and internal methods.

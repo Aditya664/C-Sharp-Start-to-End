@@ -4,7 +4,7 @@ namespace Functions
 {
     class Functions
     {
-        // What is Function?
+        // What is a Function?
         // -Function,or methods, are blocks of code that can be reused throughout our program.
         // -they make it easy to reuse code without typing it over and over.
         // -We can make a change in the Function body and not have to change it everywhere the function is called.

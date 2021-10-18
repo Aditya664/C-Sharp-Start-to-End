@@ -10,8 +10,10 @@ namespace WhileLoop
     // -Two main type of loops:-
     //     1.for
     //     2.while
-    // -A for loop itertes over elements umtil the specified length is reached.
+    // -A for loop iterates over elements umtil the specified length is reached.
     // -A While loop executes until a specified condition is met;
+    // -Care should be taken when using While loop to avoid Infinite loop
+    // - An infinite loop is a loop that doesn't terminate i.e This could crash your program or system.
 
     class WhileLoop 
     {

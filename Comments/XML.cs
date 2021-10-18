@@ -1,7 +1,7 @@
 ﻿namespace XML {
 class XML {
   // What are comments?
-  // - A comment is a line of code that is not executed by the computer
+  // - A comment is a line of code that is not executed by the compiler
   // - Every major programming language has an ability to write comments
   // - They are used to explain code and make notes
   // - There are 3 types of comments:

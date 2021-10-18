@@ -4,9 +4,9 @@ namespace SingleLine
 {
     class SingleLine 
     {
-        // What is Comments?
-        // -A Comment is line of code that is not executed by the computer.
-        // -Every programming language has them comment.
+        // What are Comments?
+        // -A Comment is line of code that is not executed by the compiler.
+        // -Every programming language has comment.
         // -used to explain code and make notes in the code.
         // -3 types of comments:-
         //     -Single-line-comments 

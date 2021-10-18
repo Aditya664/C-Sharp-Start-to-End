@@ -4,10 +4,10 @@ namespace MultiLine
 {
     class MultiLine 
     {
-        // What is Comments?
-        // -A Comment is line of code that is not executed by the computer.
-        // -Every programming language has them comment.
-        // -used to explain code and make notes in the code.
+        // What are Comments?
+        // -A Comment is line of code that is not executed by the compiler.
+        // -Every programming language has comment.
+        // -They are used to explain code and make notes in the code.
         // -3 types of comments:-
         //     -Single-line-comments 
         //     -Multi-line-comments 
@@ -17,6 +17,8 @@ namespace MultiLine
         {
            /* This is the 
             multi-line comment */
+           
+
         }
     }
 }
