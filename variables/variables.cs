@@ -43,6 +43,19 @@ namespace VaSSriables
             boolean complete = true;
             boolean incomplete = false;
 
+            //double
+            double number1 = 20.30d;
+            double number2 = 30.49d;
+            double number3 = 763.435d;
+            
+            //decimal
+            // This is mostly used for money because of the the higher precision
+            decimal figure1 = 345.24453343m;
+            decimal figure2 = 285.24453343m;
+            decimal figure3 = 965.24453343m;
+
+
+
 
 
         }
