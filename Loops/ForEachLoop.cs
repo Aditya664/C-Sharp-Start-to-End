@@ -15,6 +15,7 @@ namespace ForEachLoop
 
     // Another type of loop is the for each loop
     //it iterates over an array or list 
+    
     class ForEachLoop
     {
         public static void Main(String[] args)
@@ -27,9 +28,9 @@ namespace ForEachLoop
                 // }
 
                 
-            for(int i = 0; i < collection.Count; i++)
+            for(var item in collection)
             {
-                Console.WriteLine(collection[i]);
+                Console.WriteLine(item);
 
             }
         }
